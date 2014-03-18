@@ -1,0 +1,23 @@
+# First, Last and Age Variables
+first = "Ronick"
+last = "Thomas"
+age = "38"
+print first + last + age
+
+#The Pythagorean Theorem
+#(SideC * SideC) = (Side A * sideA) + (SideB * SideB)
+sideA = 12.55
+sideB = 17.85
+sideC = (sideA * sideA) + (sideB * sideB)
+print (sideC * sideC)
+
+#Variable Operations
+operand1 = 94
+operand2 = 64.5
+print operand1 + operand2
+print operand1 - operand2
+print operand1 * operand2
+print operand1 / operand2
+print operand1 % operand2
+
+# I think the this method is good for a beginner but probably will be easier with time. If the variables changed I shouldn't have to change any code.
