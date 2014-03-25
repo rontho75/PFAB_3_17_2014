@@ -1,0 +1,5 @@
+#This code will calculate sales tax based on the price of the item and the sales tax for the user's location.
+item = input("Please enter the price of the item (Example 2.45): ")
+salesTax = input("Please enter the sales tax for your location (Example 0.XX): ")
+totalTax = item * salesTax
+print "Your total cost is: ", totalTax
